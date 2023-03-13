@@ -5,4 +5,4 @@ This is the *Cinema Room REST Service* project I made myself.
 
 Here's the link to the project: https://hyperskill.org/projects/189
 
-Check out my profile: https://hyperskill.org/profile/282607149# Cinema_Room_REST_Service2
+Check out my profile: https://hyperskill.org/profile/282607149

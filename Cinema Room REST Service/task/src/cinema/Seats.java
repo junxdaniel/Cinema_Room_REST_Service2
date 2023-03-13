@@ -8,7 +8,7 @@ public class Seats {
     private Integer row;
     @JsonProperty
     private Integer column;
-    //@JsonIgnore
+
     private Integer price;
 
     public Seats(Integer row, Integer column) {
